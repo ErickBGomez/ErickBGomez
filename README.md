@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickBGomez
 - 👀 I’m interested in techonology, videogames and astronomy :D
-- 🌱 I’m currently learning Unity and C#.
+- 🌱 I’m currently learning C++.
 
 <!---
 ErickBGomez/ErickBGomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
