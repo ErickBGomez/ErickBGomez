@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErickBGomez
-- 👀 I’m interested in techonology, videogames and astronomy :D
+- 👀 I’m interested in tech, video games and astronomy :D
 - 🌱 I’m currently learning C++.
 
 <!---
