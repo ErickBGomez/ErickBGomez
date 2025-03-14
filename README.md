@@ -1,11 +1,45 @@
 # About me
-My name is Erick Gómez, currently a novice web developer, and proudly Salvadoran.
+I am a self-taught junior full-stack web developer from El Salvador. My passion lies in learning with each new step and designing solutions for problems in my environment.
 
-Currently I am learning a lot in each step that I take in my repositories, and I enjoy each challenge that I put myself in each web project.
+I am currently studying Computer Engineering at José Simeón Cañas Central American University (UCA in spanish) in El Salvador. I have applied my knowledge at CONIA Web Services, the presentations and conferences platform used by UCA for graduate students and professors to present their research. My role includes supervising visual content and performing unit and end-to-end testing on different service modules.
+
+I am expanding my skills in API security, integration of protocols such as OAuth, and secure and versatile web application deployment.
 
 # Skills
 
-My current skills are summarized in: HTML, CSS and JavaScript. And the tools I use are Git, Visual Studio Code and Figma.
+**Programming Languages:**
+
+JavaScript (ES6+), TypeScript, Java, C++, C#
+
+<br>
+
+**Frontend Technologies:**
+
+React, Sass, Tailwind CSS, HTML, CSS, Framer Motion
+
+<br>
+
+**Backend Technologies:**
+
+NodeJS, Express, PassportJS, MongoDB, PostgreSQL
+
+<br>
+
+**Tools and platforms:**
+
+Git, GitHub, Visual Studio Code, Webpack, Vite, Docker, Vercel, Netflify, AWS EC2, Figma
+
+# My personal blog: Erick's Notepad
+
+In my free time, I write technical articles on my blog "Erick's Notepad", a beginner-friendly space where I share information about web development, tips for novice programmers, and experiences from my professional journey.
+
+You can visit my blog by clicking the link down below
+
+[Go to Erick's Notepad](https://ericksnotepad.hashnode.dev/)
+
+# Let's connect!
+
+I am seeking new opportunities to continue growing in web development, ready to contribute my knowledge and skills comprehensively to projects in any field. Let's connect and create something amazing together!
 
 <!---
 ErickBGomez/ErickBGomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
