@@ -42,6 +42,7 @@ You can visit my blog by clicking the link down below
 I am seeking new opportunities to continue growing in web development, ready to contribute my knowledge and skills comprehensively to projects in any field. Let's connect and create something amazing together!
 
 [My LinkedIn Profile](https://www.linkedin.com/in/erickbgomez/)
+
 [My X Profile](https://x.com/ErickBGomez)
 
 <!---
