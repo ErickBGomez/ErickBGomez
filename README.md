@@ -21,13 +21,23 @@ React, Sass, Tailwind CSS, HTML, CSS, Framer Motion
 
 **Backend Technologies:**
 
-NodeJS, Express, PassportJS, MongoDB, PostgreSQL
+NodeJS, Express, MongoDB, PostgreSQL, MySQL
+
+<br>
+
+**IDEs and Editors:**
+
+Visual Studio Code, Visual Studio Community, IntelliJ IDEA Ultimate, Rider, Eclipse
 
 <br>
 
 **Tools and platforms:**
 
 Git, GitHub, Visual Studio Code, Webpack, Vite, Docker, Vercel, Netflify, AWS EC2, Figma
+
+# Projects and Experience
+
+I worked as a Backend and Test Automation Developer at Universidad Centroamericana José Simeón Cañas as part of an apprenticeship, where I designed and implemented models, services, and controllers for graduate student academic presentation registrations. I also led quality assurance by supervising and evaluating unit tests, and identified and resolved critical issues through automated testing, improving system stability and performance by 25%.
 
 # My personal blog: Erick's Notepad
 
