@@ -1,43 +1,30 @@
 # About me
-I am a self-taught junior full-stack web developer from El Salvador. My passion lies in learning with each new step and designing solutions for problems in my environment.
+I am a Full Stack Web Developer who transforms creative ideas into complete applications. I design the Front End with intuitive and responsive user interfaces, integrate the Back End through services such as databases and APIs, and deploy applications in robust and secure environments so they can be accessed at scale.
 
-I am currently studying Computer Engineering at José Simeón Cañas Central American University (UCA in spanish) in El Salvador. I have applied my knowledge at CONIA Web Services, the presentations and conferences platform used by UCA for graduate students and professors to present their research. My role includes supervising visual content and performing unit and end-to-end testing on different service modules.
+In my academic life, I am a third-year Computer Engineering student at the Central American University “José Simeón Cañas” (UCA) in El Salvador. I am training across multiple areas of software development, consistently supporting my peers and contributing to new projects focused on delivering efficient solutions.
 
-I am expanding my skills in API security, integration of protocols such as OAuth, and secure and versatile web application deployment.
+My passion and purpose, as a young Salvadoran, is to contribute meaningfully to the technology ecosystem by providing practical solutions to real-world problems within my environment, while continuously learning and growing throughout the process.
 
 # Skills
 
-**Programming Languages:**
-
+**Programming languages:**
 JavaScript (ES6+), TypeScript, Java, C++, C#
 
 <br>
 
-**Frontend Technologies:**
-
-React, Sass, Tailwind CSS, HTML, CSS, Framer Motion
-
-<br>
-
-**Backend Technologies:**
-
-NodeJS, Express, MongoDB, PostgreSQL, MySQL
+**Frontend technologies:**
+React, Tailwind, Sass, Motion, HTML, CSS
 
 <br>
 
-**IDEs and Editors:**
+**Backend technologies:**
 
-Visual Studio Code, Visual Studio Community, IntelliJ IDEA Ultimate, Rider, Eclipse
+Node.js, Express, MongoDB, PostgreSQL, MySQL, Prisma
 
 <br>
 
 **Tools and platforms:**
-
-Git, GitHub, Visual Studio Code, Webpack, Vite, Docker, Vercel, Netflify, AWS EC2, Figma
-
-# Projects and Experience
-
-I worked as a Backend and Test Automation Developer at Universidad Centroamericana José Simeón Cañas as part of an apprenticeship, where I designed and implemented models, services, and controllers for graduate student academic presentation registrations. I also led quality assurance by supervising and evaluating unit tests, and identified and resolved critical issues through automated testing, improving system stability and performance by 25%.
+Git, GitHub, Visual Studio Code, Linux, Docker, Nginx, AWS EC2, Figma
 
 # My personal blog: Erick's Notepad
 
@@ -49,7 +36,7 @@ You can visit my blog by clicking the link down below
 
 # Let's connect!
 
-I am seeking new opportunities to continue growing in web development, ready to contribute my knowledge and skills comprehensively to projects in any field. Let's connect and create something amazing together!
+Feel free to contact me through this platform with a brief message, or better yet, a conversation with a cup of coffee is more than enough to start building a great project!
 
 [My LinkedIn Profile](https://www.linkedin.com/in/erickbgomez/)
 
