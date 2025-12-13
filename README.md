@@ -8,22 +8,25 @@ My passion and purpose, as a young Salvadoran, is to contribute meaningfully to 
 # Skills
 
 **Programming languages:**
+
 JavaScript (ES6+), TypeScript, Java, C++, C#
 
 <br>
 
-**Frontend technologies:**
+**Front End technologies:**
+
 React, Tailwind, Sass, Motion, HTML, CSS
 
 <br>
 
-**Backend technologies:**
+**Back End technologies:**
 
 Node.js, Express, MongoDB, PostgreSQL, MySQL, Prisma
 
 <br>
 
 **Tools and platforms:**
+
 Git, GitHub, Visual Studio Code, Linux, Docker, Nginx, AWS EC2, Figma
 
 # My personal blog: Erick's Notepad
